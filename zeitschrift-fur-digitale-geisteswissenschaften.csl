@@ -9,29 +9,33 @@
     <link href="http://www.zfdg.de/s-wie-style" rel="documentation"/>
     <author>
       <name>Timo Steyer</name>
-      <email>steyer@hab.de</email>
+      <email>steyer@tu-braunschweig.de</email>
       <uri>http://timosteyer.de</uri>
     </author>
+    <author>
+      <name>Marcus Baumgarten</name>
+      <email>baumgarten@hab.de</email>
+      <uri>https://www.hab.de/author/marcus-baumgarten/</uri>
+    </author>
     <contributor>
-      <name>Henrike Friche</name>
+      <name>Henrike Fricke-Steyer</name>
       <email>henrike.fricke@hab.de</email>
     </contributor>
     <contributor>
-      <name>Lisa Klaffki</name>
-      <email>klaffki@hab.de</email>
+      <name>Caroline Jansky</name>
+      <email>jansky@hab.de</email>
     </contributor>
     <category citation-format="note"/>
     <category field="humanities"/>
     <issn>2510-1358</issn>
     <summary>Style for Zeitschrift für digitale Geisteswissenschaften (ZfdG).</summary>
     <published>2019-05-28T14:00:00+00:00</published>
-    <updated>2019-11-01T02:36:13+00:00</updated>
-    <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
+    <updated>2023-07-31</updated>
+    <rights license="http://creativecommons.org/licenses/by-sa/4.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 License</rights>
   </info>
   <locale xml:lang="de">
     <terms>
       <term name="et-al">et al.</term>
-      <!--  <term name="accessed">gesehen am</term>-->
       <term name="editor" form="short">Hg.</term>
       <term name="editor" form="verb-short">Hg.&#160;von</term>
       <term name="translator" form="short">Übers.</term>
